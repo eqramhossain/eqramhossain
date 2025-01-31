@@ -17,9 +17,6 @@
   <a href="https://github.com/Nimon77/badge42" target="_blank" rel="noopener noreferrer">
     <img width="48%" src="https://badge.nimon.fr/api/v2/cm62sd3do299101mq198nv3i7/stats?cursusId=21&coalitionId=47" />
   </a>
-  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="noopener noreferrer">
-    <img width="48%" src="https://badge.nimon.fr/api/v2/cm62sd3do299101mq198nv3i7/stats?cursusId=9&coalitionId=108" />
-  </a>
 </div>
 
  <!---->
