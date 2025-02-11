@@ -9,14 +9,3 @@
     <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eqramhossain&layout=compact&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   </a>
 </div>
-
-
-### 42 cursus
-
-<div align="center">
-  <a href="https://github.com/Nimon77/badge42" target="_blank" rel="noopener noreferrer">
-    <img width="48%" src="https://badge.nimon.fr/api/v2/cm62sd3do299101mq198nv3i7/stats?cursusId=21&coalitionId=47" />
-  </a>
-</div>
-
- <!---->
